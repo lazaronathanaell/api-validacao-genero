@@ -13,7 +13,7 @@ Nome, Data de Nascimento, CPF, Sexo
 
 E retorna um arquivo Excel com colunas adicionais:
 ```
-Primeiro Nome | Modelo (M/F/U) | Sexo Validado | Status
+Sexo Validado | Status
 ```
 
 ---
