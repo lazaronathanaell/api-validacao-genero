@@ -18,6 +18,18 @@ Sexo Validado | Status
 
 ---
 
+📊 Fonte de Dados e Treinamento do Modelo
+
+O modelo utilizado nesta API foi treinado a partir de uma planilha pública disponibilizada em:
+```
+🔗 https://brasil.io/dataset/genero-nomes/nomes/
+```
+Esta base contém a classificação de gênero de nomes brasileiros, elaborada com dados do Censo Demográfico de 2010 do IBGE (Instituto Brasileiro de Geografia e Estatística).
+O conjunto de dados foi liberado por Álvaro Justen através do projeto Brasil.io
+, e está disponível sob a licença Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+Os dados foram utilizados exclusivamente para fins de pesquisa e desenvolvimento de modelo preditivo, com o objetivo de treinar um classificador de nomes capaz de inferir o provável gênero (Masculino, Feminino ou Unissex) a partir do primeiro nome.
+
 ## ⚙️ Requisitos
 
 - **Python 3.11.9**
