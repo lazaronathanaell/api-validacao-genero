@@ -64,7 +64,7 @@ source .venv/bin/activate
 
 > Quando ativado corretamente, o terminal mostrará algo como:
 > ```
-> (.venv) PS C:\3it\api-validacao-dados-ia>
+> (.venv) PS C:\src\api-validacao-dados-ia>
 > ```
 
 ---
